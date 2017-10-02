@@ -9,9 +9,9 @@ Notice: it is required that you have a screen with modern resolution (bigger tha
 
 # INSTALL
 
-`
+```
 CFLAGS=-O2 -fpermissive CXXFLAGS=-O2 -fpermissive ./configure
 make
 sudo make install
-`
+```
 
